@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1556956656 source:e:\数据库\实验\实验4\extmem-c\test.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1308709046 e:\数据库\实验\实验4\extmem-c\extmem.h
+
+1556955034 source:e:\数据库\实验\实验4\extmem-c\extmem.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1556956697 source:e:\c-workspace\database\main.c
+	<stdlib.h>
+	<stdio.h>
+	"extmem.h"
+
+1308709046 e:\c-workspace\database\extmem.h
+

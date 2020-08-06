@@ -1,0 +1,10 @@
+学生
+
+学号:0001	密码:woyaojiayou
+学生:0003	密码:woyaojiayou
+学生:0004	密码:woyaojiayou
+学生:0005	密码:woyaojiayou
+
+教务人员
+
+职工号:1160300610	密码:woyaojiayou
